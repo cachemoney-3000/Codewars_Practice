@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Challenge;
 
 public class StringEnds {
     public static void main(String[] args) {

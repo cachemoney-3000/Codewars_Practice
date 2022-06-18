@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Challenge;
 
 import java.util.HashMap;
 import java.util.Locale;
